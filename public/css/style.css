@@ -1,0 +1,14 @@
+.bg-darkness{
+    background-color: #202427;
+    box-shadow: inset 2px 2px 2px #111315;
+}
+.bg-less-light{
+    background-color: #63686b;
+}
+
+.input-todo{
+    border: 0px none;
+    padding: 0.25rem !important;
+
+    /* color: brown !important; */
+}
